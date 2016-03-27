@@ -17,5 +17,7 @@ For this question I defined a class named device which is used as a simulation f
 then 8 threads try to use an instance of these devices (5 devices to make a race condition)
 Semaphore is used for the synchronization between threads
 
+Professor : Dr.Sharifi
+TA : MR. Dehsangi
 Operating System Course - Fall 1394
 Mehran Memarnejad - 92521267
