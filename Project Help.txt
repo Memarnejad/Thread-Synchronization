@@ -1,0 +1,21 @@
+Be nam _e_ khoda
+
+Project#4 Description:
+
+Important : To run the programs you need to install python 2.7.9
+
+Question1:
+For this question a database is created and two threads try to add new records to this database
+A lock is used for synchronization between threads
+
+Question2:
+For this question a file is created and two threads try to add new information to this file
+A lock is used for synchronization between threads
+
+Question3:
+For this question I defined a class named device which is used as a simulation for real resources
+then 8 threads try to use an instance of these devices (5 devices to make a race condition)
+Semaphore is used for the synchronization between threads
+
+Operating System Course - Fall 1394
+Mehran Memarnejad - 92521267
